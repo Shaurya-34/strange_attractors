@@ -57,4 +57,4 @@ rasterized and encoded up front. `frame_step` is the lever: raising it
 builds fewer frames without making playback choppier, because `fps`
 controls speed independently.
 
-Full writeup: [Never repeating, never leaving](https://sslog.dpdns.org/never-repeating-never-leaving.html)
+Full writeup: [Never repeating, never leaving](https://shauryasharma.tech/never-repeating-never-leaving.html)
